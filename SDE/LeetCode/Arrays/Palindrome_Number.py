@@ -16,6 +16,7 @@ def isPalindrome(num):
             R -= 1
         else:
             return False
+        
     return True
 
 if __name__ == "__main__":
